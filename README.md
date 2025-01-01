@@ -46,6 +46,6 @@ gpg --decrypt encripted_gift.gpg
 ## Контакт
 Если возникли вопросы или требуется дополнительная информация, свяжитесь со мной по почте или через другой канал.
 
-![Golden Apple Gift](images/github_logo.png)
+![Golden Apple Gift](github_logo.png)
 
 
